@@ -1,0 +1,16 @@
+# Ignore the BAITAPTHUCHANH directory
+BAITAPTHUCHANH/
+BAITAPTHUCHANH_LAPTRINHPYTHONNANGCAO/
+
+# Ignore Chuong 1 to Chuong 5 directories
+Chuong1/
+Chuong2/
+Chuong3/
+Chuong4/
+Chuong5/
+Chuong6/
+
+# Ignore the ChuyenDoi.py file
+ChuyenDoi.py
+
+*.docx
